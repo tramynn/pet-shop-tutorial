@@ -298,10 +298,10 @@
                       "name": "require",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [
-                        94,
-                        95
+                        61,
+                        62
                       ],
-                      "referencedDeclaration": 94,
+                      "referencedDeclaration": 61,
                       "src": "526:7:0",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_require_pure$_t_bool_$returns$__$",
@@ -384,7 +384,7 @@
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 91,
+                        "referencedDeclaration": 58,
                         "src": "650:3:0",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
@@ -837,10 +837,10 @@
                                 }
                               ],
                               "overloadedDeclarations": [
-                                94,
-                                95
+                                61,
+                                62
                               ],
-                              "referencedDeclaration": 94,
+                              "referencedDeclaration": 61,
                               "type": "function (bool) pure",
                               "value": "require"
                             },
@@ -1054,7 +1054,7 @@
                                   "overloadedDeclarations": [
                                     null
                                   ],
-                                  "referencedDeclaration": 91,
+                                  "referencedDeclaration": 58,
                                   "type": "msg",
                                   "value": "msg"
                                 },
@@ -1249,9 +1249,17 @@
     "name": "solc",
     "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
   },
-  "networks": {},
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x4191dF76F72302038BD60461654FF66b519EECDf",
+      "transactionHash": "0xf31f9bbb1354d615e39aa18244b5a2042dd638a487aff7f68d5bfa940692bddc"
+    }
+  },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-09-29T03:15:05.633Z",
+  "updatedAt": "2021-09-30T01:06:30.516Z",
+  "networkType": "ethereum",
   "devdoc": {
     "author": "Tramy N. Nguyen",
     "methods": {
