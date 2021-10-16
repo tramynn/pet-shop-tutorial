@@ -39,9 +39,9 @@ App = {
       App.web3Provider = window.web3.currentProvider;
       // If no injected web3 instance is detected, fall back to Ganache
     } else {
-      App.web3Provider = new Web3.providers.HttpProvider("http://localhost:8545");
+      App.web3Provider = new Web3.providers.HttpProvider("http://localhost:7545");
     }
-    App.web3Provider = new Web3.providers.HttpProvider("http://localhost:8545");
+    App.web3Provider = new Web3.providers.HttpProvider("http://localhost:7545");
     return App.initContract();
   },
 
@@ -93,7 +93,7 @@ App = {
 
     let adoptionInstance;
 
-    // We use web3 to get the user's accounts. In the callback after an error check, we then select the first account.
+    //We use web3 to get the user's accounts. In the callback after an error check, we then select the first account.
     web3.eth.getAccounts(function(error, accounts) {
       if (error) {
         console.error(error);

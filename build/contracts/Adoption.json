@@ -1253,19 +1253,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0x2F255f208fC317d1e95826170F87Ba5b7DAf2CDa",
-      "transactionHash": "0x3fb422f6b3aa39696699a1c194523b59dc8007715403b5664723962dc7f6431a"
-    },
-    "5777": {
-      "events": {},
-      "links": {},
-      "address": "0xD37A647c8EDc346fb7B95050FAd069b998bACC15",
-      "transactionHash": "0xa43cb4b129f1837beb7a5a538d68a1d0e82d78385c9a34f10f51962152c4491b"
+      "address": "0x545a4Bca19924941eAE0ec5A7B53F76C686e0d31",
+      "transactionHash": "0xad3ce9affcf96e8fe9ece8737ea22552800b9df5e1b0f0d0d90087082929a9f0"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-10-16T17:58:19.598Z",
-  "networkType": "ethereum",
+  "updatedAt": "2021-10-16T18:43:46.134Z",
   "devdoc": {
     "author": "Tramy N. Nguyen",
     "methods": {
