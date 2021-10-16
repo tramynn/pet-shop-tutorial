@@ -1253,12 +1253,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x4191dF76F72302038BD60461654FF66b519EECDf",
-      "transactionHash": "0xf31f9bbb1354d615e39aa18244b5a2042dd638a487aff7f68d5bfa940692bddc"
+      "address": "0xD37A647c8EDc346fb7B95050FAd069b998bACC15",
+      "transactionHash": "0xa43cb4b129f1837beb7a5a538d68a1d0e82d78385c9a34f10f51962152c4491b"
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-09-30T01:06:30.516Z",
+  "updatedAt": "2021-10-16T16:55:42.621Z",
   "networkType": "ethereum",
   "devdoc": {
     "author": "Tramy N. Nguyen",
