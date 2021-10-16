@@ -1250,6 +1250,12 @@
     "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
   },
   "networks": {
+    "1337": {
+      "events": {},
+      "links": {},
+      "address": "0x2F255f208fC317d1e95826170F87Ba5b7DAf2CDa",
+      "transactionHash": "0x3fb422f6b3aa39696699a1c194523b59dc8007715403b5664723962dc7f6431a"
+    },
     "5777": {
       "events": {},
       "links": {},
@@ -1258,7 +1264,7 @@
     }
   },
   "schemaVersion": "3.4.3",
-  "updatedAt": "2021-10-16T16:55:42.621Z",
+  "updatedAt": "2021-10-16T17:58:19.598Z",
   "networkType": "ethereum",
   "devdoc": {
     "author": "Tramy N. Nguyen",
